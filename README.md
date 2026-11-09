@@ -121,7 +121,7 @@ on the uploaded data — it only transforms (via the saved `StandardScaler`)
 and predicts.
 
 ## Live Streamlit App Link
-
+https://dry-bean-classifier-app-b466zzck9wsemyxtzauzzh.streamlit.app/
 > https://<your-app-name>.streamlit.app
 
 *(Fill in after deploying — see Step 6 of the assignment / deployment
