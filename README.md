@@ -36,10 +36,7 @@ scores any uploaded test CSV on demand — no retraining happens in the app.
 
 ## c. GitHub Repository Link
 
-> https://github.com/<your-github-username>/dry-bean-classifier-app
-
-*(Replace with the actual repository URL after pushing — see deployment
-steps below.)*
+> https://github.com/subnkve/dry-bean-classifier-app
 
 ## d. Models Used
 
